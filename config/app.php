@@ -231,7 +231,7 @@ return [
              */
             //'port' => 'non_standard_port_number',
             'username' => 'root',
-            'password' => 'baptiste02300',
+            'password' => '',
             'database' => 'cake',
             'encoding' => 'utf8',
             'timezone' => 'UTC',
